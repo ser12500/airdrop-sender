@@ -1,13 +1,8 @@
+Airdrop-sender UI
 
-
-
-
-
-
-
-
-
-
+<p align="center">
+        <img src="./image/image.png" width="500" alt=""/>
+</p>
 
 
 
